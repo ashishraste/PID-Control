@@ -1,0 +1,318 @@
+/Users/freax/clones/PID-Control/cmake-build-debug/pid
+Listening to port 4567
+Connected!!!
+Step number: 2100
+Total error: 1200.02
+Best error: 1.79769e+308
+Optimised!!
+Adjusted parameters ...
+Kp = 0.17303 Ki = 0.00025 Kd = 3
+
+Step number: 2100
+Total error: 1200.02
+Best error: 1.79769e+308
+Optimised!!
+Adjusted parameters ...
+Kp = 0.41261 Ki = 0 Kd = 0.02
+
+Step number: 4200
+Total error: 1500.49
+Best error: 1200.02
+Adjusted parameters ...
+Kp = 0.14157 Ki = 0.00025 Kd = 3
+
+Step number: 4200
+Total error: 1500.49
+Best error: 1200.02
+Adjusted parameters ...
+Kp = 0.33759 Ki = 0 Kd = 0.02
+
+Step number: 6300
+Total error: 1483.2
+Best error: 1200.02
+Adjusted parameters ...
+Kp = 0.1573 Ki = 0.00025 Kd = 3
+
+Step number: 6300
+Total error: 1483.2
+Best error: 1200.02
+Adjusted parameters ...
+Kp = 0.3751 Ki = 0 Kd = 0.02
+
+Step number: 8400
+Total error: 1677.08
+Best error: 1200.02
+Adjusted parameters ...
+Kp = 0.1573 Ki = 0.00025 Kd = 3.3
+
+Step number: 8400
+Total error: 1677.08
+Best error: 1200.02
+Adjusted parameters ...
+Kp = 0.3751 Ki = 0 Kd = 0.022
+
+Step number: 10500
+Total error: 1670.32
+Best error: 1200.02
+Adjusted parameters ...
+Kp = 0.1573 Ki = 0.00025 Kd = 2.7
+
+Step number: 10500
+Total error: 1670.32
+Best error: 1200.02
+Adjusted parameters ...
+Kp = 0.3751 Ki = 0 Kd = 0.018
+
+Step number: 12600
+Total error: 1880.27
+Best error: 1200.02
+Adjusted parameters ...
+Kp = 0.1573 Ki = 0.00025 Kd = 3
+
+Step number: 12600
+Total error: 1880.27
+Best error: 1200.02
+Adjusted parameters ...
+Kp = 0.3751 Ki = 0 Kd = 0.02
+
+Step number: 14700
+Total error: 1492.01
+Best error: 1200.02
+Adjusted parameters ...
+Kp = 0.1573 Ki = 0.000275 Kd = 3
+
+Step number: 14700
+Total error: 1492.01
+Best error: 1200.02
+Adjusted parameters ...
+Kp = 0.3751 Ki = 0 Kd = 0.02
+
+Step number: 16800
+Total error: 1665.69
+Best error: 1200.02
+Adjusted parameters ...
+Kp = 0.1573 Ki = 0.000225 Kd = 3
+
+Step number: 16800
+Total error: 1665.69
+Best error: 1200.02
+Adjusted parameters ...
+Kp = 0.3751 Ki = 0 Kd = 0.02
+
+Step number: 18900
+Total error: 1214.05
+Best error: 1200.02
+Adjusted parameters ...
+Kp = 0.1573 Ki = 0.00025 Kd = 3
+
+Step number: 18900
+Total error: 1214.05
+Best error: 1200.02
+Adjusted parameters ...
+Kp = 0.3751 Ki = 0 Kd = 0.02
+
+Step number: 21000
+Total error: 2486.01
+Best error: 1200.02
+Adjusted parameters ...
+Kp = 0.171457 Ki = 0.00025 Kd = 3
+
+Step number: 21000
+Total error: 2486.01
+Best error: 1200.02
+Adjusted parameters ...
+Kp = 0.408859 Ki = 0 Kd = 0.02
+
+Step number: 23100
+Total error: 1442.65
+Best error: 1200.02
+Adjusted parameters ...
+Kp = 0.143143 Ki = 0.00025 Kd = 3
+
+Step number: 23100
+Total error: 1442.65
+Best error: 1200.02
+Adjusted parameters ...
+Kp = 0.341341 Ki = 0 Kd = 0.02
+
+Step number: 25200
+Total error: 1816.96
+Best error: 1200.02
+Adjusted parameters ...
+Kp = 0.1573 Ki = 0.00025 Kd = 3
+
+Step number: 25200
+Total error: 1816.96
+Best error: 1200.02
+Adjusted parameters ...
+Kp = 0.3751 Ki = 0 Kd = 0.02
+
+Step number: 27300
+Total error: 2225.39
+Best error: 1200.02
+Adjusted parameters ...
+Kp = 0.1573 Ki = 0.00025 Kd = 3.27
+
+Step number: 27300
+Total error: 2225.39
+Best error: 1200.02
+Adjusted parameters ...
+Kp = 0.3751 Ki = 0 Kd = 0.0218
+
+Step number: 29400
+Total error: 1184.95
+Best error: 1200.02
+Optimised!!
+Adjusted parameters ...
+Kp = 0.1573 Ki = 0.0002725 Kd = 3.27
+
+Step number: 29400
+Total error: 1184.95
+Best error: 1200.02
+Optimised!!
+Adjusted parameters ...
+Kp = 0.3751 Ki = 0 Kd = 0.0218
+
+Step number: 31500
+Total error: 2159.39
+Best error: 1184.95
+Adjusted parameters ...
+Kp = 0.1573 Ki = 0.0002275 Kd = 3.27
+
+Step number: 31500
+Total error: 2159.39
+Best error: 1184.95
+Adjusted parameters ...
+Kp = 0.3751 Ki = 0 Kd = 0.0218
+
+Step number: 33600
+Total error: 1587.9
+Best error: 1184.95
+Adjusted parameters ...
+Kp = 0.1573 Ki = 0.00025 Kd = 3.27
+
+Step number: 33600
+Total error: 1587.9
+Best error: 1184.95
+Adjusted parameters ...
+Kp = 0.3751 Ki = 0 Kd = 0.0218
+
+Step number: 35700
+Total error: 1313.03
+Best error: 1184.95
+Adjusted parameters ...
+Kp = 0.170041 Ki = 0.00025 Kd = 3.27
+
+Step number: 35700
+Total error: 1313.03
+Best error: 1184.95
+Adjusted parameters ...
+Kp = 0.405483 Ki = 0 Kd = 0.0218
+
+Step number: 37800
+Total error: 1180.16
+Best error: 1184.95
+Optimised!!
+Adjusted parameters ...
+Kp = 0.170041 Ki = 0.00025 Kd = 3.567
+
+Step number: 37800
+Total error: 1180.16
+Best error: 1184.95
+Optimised!!
+Adjusted parameters ...
+Kp = 0.405483 Ki = 0 Kd = 0.02378
+
+Step number: 39900
+Total error: 1170.5
+Best error: 1180.16
+Optimised!!
+Adjusted parameters ...
+Kp = 0.170041 Ki = 0.00027025 Kd = 3.567
+
+Step number: 39900
+Total error: 1170.5
+Best error: 1180.16
+Optimised!!
+Adjusted parameters ...
+Kp = 0.405483 Ki = 0 Kd = 0.02378
+
+Step number: 42000
+Total error: 1286.6
+Best error: 1170.5
+Adjusted parameters ...
+Kp = 0.170041 Ki = 0.00022975 Kd = 3.567
+
+Step number: 42000
+Total error: 1286.6
+Best error: 1170.5
+Adjusted parameters ...
+Kp = 0.405483 Ki = 0 Kd = 0.02378
+
+Step number: 44100
+Total error: 1181.98
+Best error: 1170.5
+Adjusted parameters ...
+Kp = 0.170041 Ki = 0.00025 Kd = 3.567
+
+Step number: 44100
+Total error: 1181.98
+Best error: 1170.5
+Adjusted parameters ...
+Kp = 0.405483 Ki = 0 Kd = 0.02378
+
+Step number: 46200
+Total error: 1153.51
+Best error: 1170.5
+Optimised!!
+Adjusted parameters ...
+Kp = 0.170041 Ki = 0.00025 Kd = 3.8937
+
+Step number: 46200
+Total error: 1153.51
+Best error: 1170.5
+Optimised!!
+Adjusted parameters ...
+Kp = 0.405483 Ki = 0 Kd = 0.025958
+
+Step number: 48300
+Total error: 1130.49
+Best error: 1153.51
+Optimised!!
+Adjusted parameters ...
+Kp = 0.170041 Ki = 0.000268225 Kd = 3.8937
+
+Step number: 48300
+Total error: 1130.49
+Best error: 1153.51
+Optimised!!
+Adjusted parameters ...
+Kp = 0.405483 Ki = 0 Kd = 0.025958
+
+Step number: 50400
+Total error: 1143.09
+Best error: 1130.49
+Adjusted parameters ...
+Kp = 0.170041 Ki = 0.000231775 Kd = 3.8937
+
+Step number: 50400
+Total error: 1143.09
+Best error: 1130.49
+Adjusted parameters ...
+Kp = 0.405483 Ki = 0 Kd = 0.025958
+
+Step number: 52500
+Total error: 1558.2
+Best error: 1130.49
+Adjusted parameters ...
+Kp = 0.170041 Ki = 0.00025 Kd = 3.8937
+
+Step number: 52500
+Total error: 1558.2
+Best error: 1130.49
+Adjusted parameters ...
+Kp = 0.405483 Ki = 0 Kd = 0.025958
+
+
+Process finished with exit code 15
+
