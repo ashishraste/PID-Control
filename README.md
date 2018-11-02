@@ -44,8 +44,7 @@ There's an experimental patch for windows in this [PR](https://github.com/udacit
 and run the PID controller.
 
 ```bash
-./clean.sh  # Cleans any existing build.
-./build.sh  # Builds the PID controller.
+./build.sh  # Cleans any existing build and builds the PID controller.
 ./run.sh    # Runs the PID controller; connects to the simulator via uWebSockets.
 ```
 
@@ -75,14 +74,14 @@ Following videos show the behaviour of the car when one of D or I components
 are missing.
 
 * Controller without D-component:  [no_derivative.mp4](output_videos/no_derivative.mp4)
-* Controller without I-component: [no-integral.mp4](output_videos/no_integral.mp4)
+* Controller without I-component: [no_integral.mp4](output_videos/no_integral.mp4)
 
 ### Hyperparameter tuning
 
 Twiddle algorithm is applied to tune the PID components i.e. the hyperparameters.
 Before enabling Twiddle, it was required to set the hyperparameters manually to
 make the car stay on the track. Below PID values for steering and throttle were
-a good starting point before running Twiddle
+a good starting point before running Twiddle.
 
 * For Steering – P: 0.13, I: 0.0002, D: 3.0
 * For Throttle – P: 0.3, I: 0, D:0.02

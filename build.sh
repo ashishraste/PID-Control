@@ -9,6 +9,9 @@
 # Go into the directory where this bash script is contained.
 cd `dirname $0`
 
+# Cleanup any existing build.
+rm -rf build
+
 # Compile code.
 mkdir -p build
 cd build
